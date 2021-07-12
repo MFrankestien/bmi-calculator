@@ -5,9 +5,9 @@ class ResultsPage extends StatelessWidget {
 
 
   ResultsPage({
-    @required this.bmi,
-    @required this.resultText,
-    @required this.interpretation,
+    required this.bmi,
+    required this.resultText,
+    required this.interpretation,
 
   });
 

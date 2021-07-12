@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 
 
 class CalculatorBrain {
-  double _bmi;
+  late double _bmi;
 
   String getBMI(height, weight) {
     _bmi = weight / pow(height / 100.0, 2);
