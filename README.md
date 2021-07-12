@@ -2,15 +2,20 @@
 
 bmi calculator
 
-## Getting Started
+Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women.
 
-This project is a starting point for a Flutter application.
+![bmi-calc-demo](https://user-images.githubusercontent.com/63518169/125238729-e909fa00-e2e7-11eb-9cb7-936b1085544b.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# What you will learn
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+How to use Flutter themes to create coherent branding.
+How to create multi-page apps using Flutter Routes and Navigator.
+How to extract and refactor Flutter Widgets with a click of the button.
+How to pass functions as parameters and fields.
+How to use the GestureDetector Widget to detect more than just a tap.
+How to use custom colour palettes by using hex codes.
+How to customise Flutter Widgets to achieve a specific design style.
+Understand Dart Enums and the Ternary Operator.
+Learn about composition vs. inheritance and the Flutter way of creating custom UI.
+Understand the difference between const and final in Dart and when to use each.
